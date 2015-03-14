@@ -6,6 +6,8 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 - [Application Framework](#application-framework)
 - [Authentication](#authentication)
 - [CMS](#cms)
+- [Modules](#modules)
+- [Generators](#generators)
 
 
 ### Application Framework
@@ -24,3 +26,10 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 ### CMS
 - [pencileblue](https://pencilblue.org/) - CMS based on Nodejs
 - [ghost](https://ghost.org/) - Blogging platform based on Nodejs
+
+### Modules
+- [forever](https://github.com/foreverjs/forever) - Tool to run script forever in Nodejs
+- [nodemon](http://nodemon.io/) - Utility to monitor for changes and restart Nodejs
+
+### Generators
+- [fullstack](https://github.com/DaftMonk/generator-angular-fullstack) - Yeoman MEAN full stack
