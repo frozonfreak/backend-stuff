@@ -8,14 +8,13 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 - [CMS](#cms)
 - [Modules](#modules)
 - [Generators](#generators)
-
+- [WebApps](webapps)
 
 ### Application Framework
 - [nodejs](https://nodejs.org/) - Javascript based server
 - [expressjs](http://expressjs.com/) - Nodejs web framework
 - [koajs](http://koajs.com/) - Nodejs minimal web framework
 - [meanio](http://mean.io/#!/) - Nodejs Full stack framework with mongo, express, angular and nodejs
-
 
 
 ### Authentication
@@ -33,3 +32,6 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 
 ### Generators
 - [fullstack](https://github.com/DaftMonk/generator-angular-fullstack) - Yeoman MEAN full stack
+
+### Web apps
+- [meteor](https://www.meteor.com/) - Platform for creating webapp using NodeJS
