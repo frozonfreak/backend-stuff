@@ -8,7 +8,8 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 - [CMS](#cms)
 - [Modules](#modules)
 - [Generators](#generators)
-- [WebApps](webapps)
+- [WebApps](#webapps)
+- [Stats](#statsaggregation)
 
 ### Application Framework
 - [nodejs](https://nodejs.org/) - Javascript based server
@@ -33,5 +34,8 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 ### Generators
 - [fullstack](https://github.com/DaftMonk/generator-angular-fullstack) - Yeoman MEAN full stack
 
-### Web apps
+### Webapps
 - [meteor](https://www.meteor.com/) - Platform for creating webapp using NodeJS
+
+### StatsAggregation
+- [statsd](https://github.com/etsy/statsd) - Simple daemon for easy stats aggregation
