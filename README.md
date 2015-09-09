@@ -30,6 +30,7 @@ Following up on the backend stuff git, creating a backend stuff list for PHP and
 ### Modules
 - [forever](https://github.com/foreverjs/forever) - Tool to run script forever in Nodejs
 - [nodemon](http://nodemon.io/) - Utility to monitor for changes and restart Nodejs
+- [pm2](https://www.npmjs.com/package/pm2) - Production manager with builtin loadbalancer
 
 ### Generators
 - [fullstack](https://github.com/DaftMonk/generator-angular-fullstack) - Yeoman MEAN full stack
